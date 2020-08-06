@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ## variables
-mybackup="/var/log/mybackup.log"
+mybackup="Your log Location"
 Time=`date +%F--\>%R`
 
-backupSrc=/var/lib/tftpboot
-backupDst=/var/lib/tftpboot
+backupSrc=Which folder will you backup?
+backupDst=Where will you save the backup folder?
 
 
 ##Function Start
