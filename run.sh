@@ -14,7 +14,7 @@ function device_list {
 
         for device in `cat devices.list`;
         do
-	./configration.sh $device;
+	./configuration.sh $device;
         done
 }
 
