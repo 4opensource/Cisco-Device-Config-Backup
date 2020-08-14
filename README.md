@@ -23,3 +23,5 @@ Finally just run it. </br>
 `./run.sh` </br>
 
 ![run.gif](https://github.com/4opensource/Cisco-Device-Config-Backup/blob/master/images/backup.gif)
+
+[www.mshowto.org](https://www.mshowto.org/linux-ile-cisco-cihazlarda-otomatik-yedek-alma.html?utm_content=buffer3cef4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&fbclid=IwAR1pM3dpZHt850qPcCrZPywZiEDE3G9NRW12tQV7fSpJ_sByPbOr_wrG8Bs)
